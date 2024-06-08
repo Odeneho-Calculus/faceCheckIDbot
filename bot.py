@@ -27,7 +27,8 @@ def handle_update(update):
                 "Welcome to FaceSearchID Bot!\n\n"
                 "FaceSearchID allows you to search for faces.\n"
                 "Click the link below to access the web app:\n"
-                f"{WEB_APP_URL}"
+                f"{WEB_APP_URL} \n"
+                "Use the Launch menu button to start\n"
             )
             send_message(chat_id, welcome_message)
         else:
