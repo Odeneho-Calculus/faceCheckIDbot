@@ -4,7 +4,7 @@ import os
 import logging
 
 TOKEN = '7412819431:AAG65XHpyBq4G8dy0KNrdNHFAVtn53EiW-Y'
-WEB_APP_URL = 'https://facecheckidproject-d3fce51bf9b5.herokuapp.com/'  # Replace with your actual web app URL
+WEB_APP_URL = 'https://t.me/facecheckV1_bot/faceCheckID'  # Replace with your actual web app URL
 
 app = Flask(__name__)
 
