@@ -3,7 +3,7 @@ import requests
 import os
 import logging
 
-TOKEN = '7412819431:AAG65XHpyBq4G8dy0KNrdNHFAVtn53EiW-Y'
+TOKEN = '#Input Your Telegram Bot API Token here'
 WEB_APP_URL = 'https://t.me/facecheckV1_bot/faceCheckID'  # Replace with your actual web app URL
 
 app = Flask(__name__)
